@@ -1,136 +1,29 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3947" dy="3783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1688" dy="-216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-1" value="Empfehlungsmanagement" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="970" y="200" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-2" value="Empfehlungen EDI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="280" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-4" value="Optimal Assortments" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="970" y="360" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-6" value="Automatischer Ordervorschlag" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1060" y="430" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-9" value="Bestseller Angebote" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="970" y="130" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-12" value="1. Customer Basket Prediction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1080" y="560" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-13" value="2&lt;span style=&quot;background-color: initial;&quot;&gt;. Size Distribution based on Geo-Coordinates&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1080" y="640" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-14" value="3. Pair Prediction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1080" y="720" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-15" value="4. Optimization to pre packs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1080" y="800" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-16" value="5. Optimal Delivery Dates" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1080" y="880" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-21" value="Feature Engineering" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="480" width="800" height="540" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ljx9C5uZyDrdPehaxEzy-21" source="WIyWlLk6GJQsqaUBKTNV-3" target="ljx9C5uZyDrdPehaxEzy-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Similarity Index" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=11;" parent="ljx9C5uZyDrdPehaxEzy-21" vertex="1">
-          <mxGeometry x="30" y="120" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-5" value="Similarity Check" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=11;" vertex="1" parent="ljx9C5uZyDrdPehaxEzy-21">
-          <mxGeometry x="400" y="120" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-3" value="Customer Clustering" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=11;" vertex="1" parent="ljx9C5uZyDrdPehaxEzy-21">
-          <mxGeometry x="30" y="40" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-7" value="Assortment Analysis" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=11;" vertex="1" parent="ljx9C5uZyDrdPehaxEzy-21">
-          <mxGeometry x="30" y="320" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-22" value="Final Process" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1040" y="480" width="560" height="540" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ljx9C5uZyDrdPehaxEzy-3" target="ljx9C5uZyDrdPehaxEzy-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ljx9C5uZyDrdPehaxEzy-5" target="ljx9C5uZyDrdPehaxEzy-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ljx9C5uZyDrdPehaxEzy-34" target="ljx9C5uZyDrdPehaxEzy-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-34" value="1. Customer Basket Prediction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="800" y="1320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ljx9C5uZyDrdPehaxEzy-35" target="ljx9C5uZyDrdPehaxEzy-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-35" value="2&lt;span style=&quot;background-color: initial;&quot;&gt;. Size Distribution based on Geo-Coordinates&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1000" y="1320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ljx9C5uZyDrdPehaxEzy-36" target="ljx9C5uZyDrdPehaxEzy-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-36" value="3. Predict Pairs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1200" y="1320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-37" value="4. Optimization to pre packs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1400" y="1320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-38" value="5. Optimal Delivery Dates" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1600" y="1320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ljx9C5uZyDrdPehaxEzy-37" target="ljx9C5uZyDrdPehaxEzy-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ljx9C5uZyDrdPehaxEzy-60" target="ljx9C5uZyDrdPehaxEzy-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-60" value="Webshop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="1240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ljx9C5uZyDrdPehaxEzy-61" target="ljx9C5uZyDrdPehaxEzy-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-61" value="Guided Shopping" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="1320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ljx9C5uZyDrdPehaxEzy-62" target="ljx9C5uZyDrdPehaxEzy-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-62" value="Guided Shopping" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="1400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ljx9C5uZyDrdPehaxEzy-38">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1815" y="1350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-73" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1820" y="1335" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-75" value="&lt;b&gt;Automated Order Optimization&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="780" y="1250" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-76" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th style=&quot;&quot;&gt;&lt;b&gt;1. Customer Basket Prediction&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Input&lt;/b&gt;&lt;br&gt;- Article Embeddings&lt;br&gt;- Customer&lt;br&gt;- Historic sales data&lt;br&gt;- Article Clusters&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Description&lt;/b&gt;&lt;br&gt;- Deep Learning Model (keras) &lt;br&gt;- Creates a customer embedding for recommendations&lt;br&gt;- Using a sigmoid-layer each customer/article is predicted for the new season&amp;nbsp;&lt;br&gt;- Prediction is filtered on &quot;best&quot; articles for each group&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;&quot;&gt;&lt;b&gt;Output&lt;/b&gt;&lt;br&gt;- list of &quot;best&quot; articles for each customer&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ljx9C5uZyDrdPehaxEzy-76" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th style=&quot;&quot;&gt;&lt;b&gt;1. Customer Basket Prediction&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Input&lt;/b&gt;&lt;br&gt;- Article Embeddings&lt;br&gt;- Customer&lt;br&gt;- Historic sales data&lt;br&gt;- Article Clusters&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Description&lt;/b&gt;&lt;br&gt;- Deep Learning Model (keras) &lt;br&gt;- Creates a customer embedding for recommendations&lt;br&gt;- Using a sigmoid-layer each customer/article is predicted for the new season&amp;nbsp;&lt;br&gt;- Prediction is filtered on &quot;best&quot; articles for each group&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;&quot;&gt;&lt;b&gt;Output&lt;/b&gt;&lt;br&gt;- list of &quot;best&quot; articles for each customer&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="520" y="1600" width="220" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-77" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th style=&quot;&quot;&gt;&lt;b&gt;2.1 Optimal Size Distributions&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Input&lt;/b&gt;&lt;br&gt;- EDI data&lt;br&gt;- article informations&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Description&lt;/b&gt;&lt;br&gt;- Calculate sales till first size out of stock for each article color and each delivery address&lt;br&gt;- Aggregate results to delivery addresses&lt;br&gt;- Compare Distributions for article types and calculate deltas&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;&quot;&gt;&lt;b&gt;Output&lt;/b&gt;&lt;br&gt;- Optimal size distributions for each article type / customer&lt;br&gt;- Article Type deltas&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ljx9C5uZyDrdPehaxEzy-77" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th style=&quot;&quot;&gt;&lt;b&gt;2.1 Optimal Size Distributions&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Input&lt;/b&gt;&lt;br&gt;- EDI data&lt;br&gt;- article informations&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Description&lt;/b&gt;&lt;br&gt;- Calculate sales till first size out of stock for each article color and each delivery address&lt;br&gt;- Aggregate results to delivery addresses&lt;br&gt;- Compare Distributions for article types and calculate deltas&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;&quot;&gt;&lt;b&gt;Output&lt;/b&gt;&lt;br&gt;- Optimal size distributions for each article type / customer&lt;br&gt;- Article Type deltas&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="800" y="1600" width="220" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-78" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th style=&quot;&quot;&gt;&lt;b&gt;2.2 Group Sales-Coordinates&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Input&lt;/b&gt;&lt;br&gt;- Grouped Sales Distributions&lt;br&gt;- Customer&lt;br&gt;- Article Type deltas&lt;br&gt;- Customer Locations&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Description&lt;/b&gt;&lt;br&gt;- Fetch missing customer coordinates using openstreetservice&lt;br&gt;- Group customers close to query customer (haversine distance)&lt;br&gt;- Aggregate sales and use article type deltas to calculate distributions for each article type&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;&quot;&gt;&lt;b&gt;Output&lt;/b&gt;&lt;br&gt;- Article Type Distributions for given customer&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ljx9C5uZyDrdPehaxEzy-78" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th style=&quot;&quot;&gt;&lt;b&gt;2.2 Group Sales-Coordinates&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Input&lt;/b&gt;&lt;br&gt;- Grouped Sales Distributions&lt;br&gt;- Customer&lt;br&gt;- Article Type deltas&lt;br&gt;- Customer Locations&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Description&lt;/b&gt;&lt;br&gt;- Fetch missing customer coordinates using openstreetservice&lt;br&gt;- Group customers close to query customer (haversine distance)&lt;br&gt;- Aggregate sales and use article type deltas to calculate distributions for each article type&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;&quot;&gt;&lt;b&gt;Output&lt;/b&gt;&lt;br&gt;- Article Type Distributions for given customer&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1080" y="1600" width="220" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-79" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th style=&quot;&quot;&gt;&lt;b&gt;3. Predict Pairs&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Input&lt;/b&gt;&lt;br&gt;- historic sales&lt;br&gt;- customer&lt;br&gt;- preselected list of articles&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Description&lt;/b&gt;&lt;br&gt;- Calculate amount of pairs for each order position&lt;br&gt;- Currently only prototyped&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;&quot;&gt;&lt;b&gt;Output&lt;/b&gt;&lt;br&gt;- Predicted pairs for customer/article combinations&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ljx9C5uZyDrdPehaxEzy-79" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th style=&quot;&quot;&gt;&lt;b&gt;3. Predict Pairs&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Input&lt;/b&gt;&lt;br&gt;- historic sales&lt;br&gt;- customer&lt;br&gt;- preselected list of articles&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Description&lt;/b&gt;&lt;br&gt;- Calculate amount of pairs for each order position&lt;br&gt;- Currently only prototyped&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;&quot;&gt;&lt;b&gt;Output&lt;/b&gt;&lt;br&gt;- Predicted pairs for customer/article combinations&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1360" y="1600" width="220" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="ljx9C5uZyDrdPehaxEzy-80" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th style=&quot;&quot;&gt;&lt;b&gt;4. Optimize to pre packs&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Input&lt;/b&gt;&lt;br&gt;- selected list of articles&lt;br&gt;- pairs for each article&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Description&lt;/b&gt;&lt;br&gt;- Calculate amount of pairs for each order position&lt;br&gt;- Currently only prototyped&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;&quot;&gt;&lt;b&gt;Output&lt;/b&gt;&lt;br&gt;- Predicted pairs for customer/article combinations&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ljx9C5uZyDrdPehaxEzy-80" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th style=&quot;&quot;&gt;&lt;b&gt;4. Optimize to pre packs&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Input&lt;/b&gt;&lt;br&gt;- size distributions&lt;br&gt;- defined prepacks for each article&lt;br&gt;- pairs&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Description&lt;/b&gt;&lt;br&gt;- Calculate closest Pre packs to given size distributions and pairs&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;&quot;&gt;&lt;b&gt;Output&lt;/b&gt;&lt;br&gt;- Predicted Prepacks for given customer/article-combination&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1640" y="1600" width="220" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="yD8Dv7ujjsd86Jje5IjI-0" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Output:&lt;/h1&gt;&lt;div&gt;- Customer&lt;/div&gt;&lt;div&gt;- Prepacks&lt;/div&gt;&lt;div&gt;- amount for each prepack&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1100" y="2120" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yD8Dv7ujjsd86Jje5IjI-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Input:&lt;/h1&gt;&lt;div&gt;- Customer Number&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1100" y="1490" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
