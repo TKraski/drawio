@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.7">
+  <diagram name="Seite-1" id="tVG_OKYoZQasS1zXHC3c">
+    <mxGraphModel dx="1184" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2f5DadgcnveIc0RbcYwo-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2f5DadgcnveIc0RbcYwo-1" target="2f5DadgcnveIc0RbcYwo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2f5DadgcnveIc0RbcYwo-1" value="Copilot Studio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2f5DadgcnveIc0RbcYwo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2f5DadgcnveIc0RbcYwo-3" target="2f5DadgcnveIc0RbcYwo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2f5DadgcnveIc0RbcYwo-3" value="Sharepoint" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="110" y="390" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2f5DadgcnveIc0RbcYwo-4" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="555" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2f5DadgcnveIc0RbcYwo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="2f5DadgcnveIc0RbcYwo-5" target="2f5DadgcnveIc0RbcYwo-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2f5DadgcnveIc0RbcYwo-5" value="WortmannGPT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2f5DadgcnveIc0RbcYwo-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2f5DadgcnveIc0RbcYwo-7" target="2f5DadgcnveIc0RbcYwo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2f5DadgcnveIc0RbcYwo-7" value="Fabric (PowerBI)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="225" y="390" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2f5DadgcnveIc0RbcYwo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2f5DadgcnveIc0RbcYwo-8" target="2f5DadgcnveIc0RbcYwo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2f5DadgcnveIc0RbcYwo-8" value="Interne Models" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="344" y="390" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2f5DadgcnveIc0RbcYwo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="2f5DadgcnveIc0RbcYwo-13" target="2f5DadgcnveIc0RbcYwo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2f5DadgcnveIc0RbcYwo-13" value="Teams" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2f5DadgcnveIc0RbcYwo-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://media.trustradius.com/product-logos/rh/K2/PHZJJTUZ5CS0-180x180.PNG;" vertex="1" parent="1">
+          <mxGeometry x="180" y="520" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="2f5DadgcnveIc0RbcYwo-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="152.88" y="380" width="52.12" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="2f5DadgcnveIc0RbcYwo-30" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://upload.wikimedia.org/wikipedia/en/4/45/Hugging_Face_logo.svg;clipPath=inset(0% 75% 0% 0%);" vertex="1" parent="1">
+          <mxGeometry x="390" y="380" width="56.82" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2f5DadgcnveIc0RbcYwo-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/1920px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="610" y="525.75" width="48.34" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="2f5DadgcnveIc0RbcYwo-32" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/1280px-Power_BI_logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="269" y="380" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2f5DadgcnveIc0RbcYwo-33" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.lovesavingsgroup.com/logos/tamaris.png;" vertex="1" parent="1">
+          <mxGeometry x="420" y="525.75" width="43.5" height="43.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
