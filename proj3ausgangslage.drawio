@@ -150,7 +150,7 @@
         <mxCell id="k6odBhkB7ekg_1NBam7G-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k6odBhkB7ekg_1NBam7G-16" target="k6odBhkB7ekg_1NBam7G-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k6odBhkB7ekg_1NBam7G-34" value="Unübersichtlicher Produktkatalog (jedes Jahr 100% Rotation)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="k6odBhkB7ekg_1NBam7G-34" value="Unübersichtlicher Produktkatalog (jede Saison Jahr 100% Rotation)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="-290" y="480" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k6odBhkB7ekg_1NBam7G-35" value="Mitarbeiter notwendig für Aufträge da Durchläufer-/Nachfolger-Artikel schlecht erkennbar" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
