@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="2vJ44t1DaMDjxfU5kd1j">
-    <mxGraphModel dx="2007" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1115" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,8 +67,8 @@
         <mxCell id="TCTYKq3WeOfi1lxGCFZc-47" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Produktiv-Gate&lt;/h1&gt;&lt;p&gt;Check der Anwendung basierend auf Security, Compliance, Architektur und fachlichen Anforderungen.&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="120" width="180" x="767" y="710" as="geometry" />
         </mxCell>
-        <mxCell id="TCTYKq3WeOfi1lxGCFZc-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Wortmann Sandbox&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="170" x="1030" y="295" as="geometry" />
+        <mxCell id="TCTYKq3WeOfi1lxGCFZc-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Wortmann Produktiv&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="1040" y="290" as="geometry" />
         </mxCell>
         <mxCell id="TCTYKq3WeOfi1lxGCFZc-51" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="70" width="113" x="1068.5" y="450" as="geometry" />
